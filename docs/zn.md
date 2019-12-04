@@ -1,7 +1,7 @@
 ---
-id: bat
-title: Alkali-Mangan Batterie
-sidebar_label: Alkali-Mangan Batterie
+id: zn
+title: Zink-Luft Batterie
+sidebar_label: Zink-Luft Batterie
 ---
 
 ## Überblick

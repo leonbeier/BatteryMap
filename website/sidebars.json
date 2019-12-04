@@ -23,7 +23,11 @@
         "type": "subcategory",
         "label": "Typen",
         "ids": [
-          "bat"
+          "bat",
+          "znc",
+          "zn",
+          "ago",
+          "li"
         ]
       }
     ],

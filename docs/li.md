@@ -1,7 +1,7 @@
 ---
-id: bat
-title: Alkali-Mangan Batterie
-sidebar_label: Alkali-Mangan Batterie
+id: li
+title: Lithium Batterie
+sidebar_label: Lithium Batterie
 ---
 
 ## Überblick

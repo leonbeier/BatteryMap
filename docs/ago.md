@@ -1,7 +1,7 @@
 ---
-id: bat
-title: Alkali-Mangan Batterie
-sidebar_label: Alkali-Mangan Batterie
+id: ago
+title: Silberoxid-Zink Batterie
+sidebar_label: Silberoxid-Zink Batterie
 ---
 
 ## Überblick

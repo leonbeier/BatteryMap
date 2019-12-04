@@ -1,7 +1,7 @@
 ---
-id: bat
-title: Alkali-Mangan Batterie
-sidebar_label: Alkali-Mangan Batterie
+id: znc
+title: Zink-Kohle Batterie
+sidebar_label: Zink-Kohle Batterie
 ---
 
 ## Überblick
