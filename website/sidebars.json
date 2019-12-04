@@ -1,0 +1,38 @@
+{
+  "docs": {
+    "Akku": [
+      "overview_accu",
+      {
+        "type": "subcategory",
+        "label": "Typen",
+        "ids": [
+          "lithium",
+          "nimh",
+          "lipo",
+          "lifepo",
+          "nicd",
+          "nife",
+          "blei",
+          "bleigel"
+        ]
+      }
+    ],
+    "Batterie": [
+      "overview_battery",
+      {
+        "type": "subcategory",
+        "label": "Typen",
+        "ids": [
+          "bat"
+        ]
+      }
+    ],
+    "Zukunft": [
+      "overview_future"
+    ]
+  },
+  "about": {
+    "About": ["contact"],
+    "Privacy Policy": ["privacy", "privacy_de"]
+  }
+}
