@@ -121,7 +121,7 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} BatteryMap.com`,
+  copyright: `Copyright © ${new Date().getFullYear()} BatteryMap.info`,
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
     theme: 'default',

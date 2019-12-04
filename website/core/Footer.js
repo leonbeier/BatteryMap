@@ -55,6 +55,7 @@ class Footer extends React.Component {
           </div>
           <div>
               <h5>Sonstiges</h5>
+              <a href={`https://github.com/leonbeier/BatteryMap`}>GitHub</a>  
               <a href={`${this.props.config.baseUrl}docs/privacy`}>Privacy Policy</a>          
               <a href={`${this.props.config.baseUrl}docs/contact`}>Kontakt</a>
           </div>
