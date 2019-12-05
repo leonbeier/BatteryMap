@@ -7,9 +7,8 @@
         "label": "Typen",
         "ids": [
           "lithium",
-          "nimh",
           "lipo",
-          "lifepo",
+          "nimh",
           "nicd",
           "nife",
           "blei",

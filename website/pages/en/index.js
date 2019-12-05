@@ -97,7 +97,7 @@ class Index extends React.Component {
             <GridBlock
               contents={[
                 {
-                  content: `Akkus sind in immer mehr Geräten, aber nur wenig Leute wissen was bei den unterschiedlichen Typen zu beachten ist und wo die Unterschiede liegen.<br/><br/>[Klicke hier um mehr zu erfahren](docs/overview_accu)`,
+                  content: `Akkus sind in immer mehr Geräten, aber nur wenig Leute wissen, was bei den unterschiedlichen Typen zu beachten ist und wo die Unterschiede liegen.<br/><br/>[Klicke hier um mehr zu erfahren](docs/overview_accu)`,
                   imageAlign: 'left',
                   image: `${siteConfig.baseUrl}img/lit.jpg`,
                   imageAlt: 'Akku',
