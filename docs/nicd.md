@@ -9,8 +9,8 @@ sidebar_label: Nickel-Kadmium Akkus
 [![Lebensdauer](assets/lebensdauer_grün.png)](#lebensdauer)
 [![Energiedichte](assets/Energiedichte_wenig.png)](#energiedichte)
 [![Ökobilanz](assets/Ökobilanz_rot.png)](#ökobilanz)
-[![Gefahren](assets/Gefahren_rot.png)](#gefahren)
-[![Recycling](assets/Recycling_rot.png)](#recycling)
+[![Gefahren](assets/Gefahren_gelb.png)](#gefahren)
+[![Recycling](assets/Recycling_gelb.png)](#recycling)
 
 ## Lebensdauer
 

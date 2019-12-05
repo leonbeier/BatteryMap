@@ -9,8 +9,8 @@ sidebar_label: Blei-Gel Überblick
 [![Lebensdauer](assets/lebensdauer_rot.png)](#lebensdauer)
 [![Energiedichte](assets/Energiedichte_leer.png)](#energiedichte)
 [![Ökobilanz](assets/Ökobilanz_rot.png)](#ökobilanz)
-[![Gefahren](assets/Gefahren_rot.png)](#gefahren)
-[![Recycling](assets/Recycling_rot.png)](#recycling)
+[![Gefahren](assets/Gefahren_grün.png)](#gefahren)
+[![Recycling](assets/Recycling_gelb.png)](#recycling)
 
 ## Lebensdauer
 
