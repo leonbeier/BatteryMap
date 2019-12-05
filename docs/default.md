@@ -1,5 +1,5 @@
 ---
-id: lithium
+id: lithium2
 title: Lithium Akkus
 sidebar_label: Lithium Akku Überblick
 ---

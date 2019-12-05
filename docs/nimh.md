@@ -6,11 +6,11 @@ sidebar_label: Nickel-Metallhydrid Akkus
 
 ## Überblick
 
-[![Lebensdauer](assets/lebensdauer_rot.png)](nimhlithium#lebensdauer)
-[![Energiedichte](assets/Energiedichte_mittel.png)](nimh#energiedichte)
-[![Ökobilanz](assets/Ökobilanz_gelb.png)](nimh#ökobilanz)
-[![Gefahren](assets/Gefahren_grün.png)](nimh#gefahren)
-[![Recycling](assets/Recycling_gelb.png)](nimh#recycling)
+[![Lebensdauer](assets/lebensdauer_rot.png)](#lebensdauer)
+[![Energiedichte](assets/Energiedichte_mittel.png)](#energiedichte)
+[![Ökobilanz](assets/Ökobilanz_gelb.png)](#ökobilanz)
+[![Gefahren](assets/Gefahren_grün.png)](#gefahren)
+[![Recycling](assets/Recycling_gelb.png)](#recycling)
 
 ## Lebensdauer
 

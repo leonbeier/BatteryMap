@@ -6,11 +6,11 @@ sidebar_label: Nickel-Eisen Akkus
 
 ## Überblick
 
-[![Lebensdauer](assets/lebensdauer_grün.png)](lithium#lebensdauer)
-[![Energiedichte](assets/Energiedichte_leer.png)](lithium#energiedichte)
-[![Ökobilanz](assets/Ökobilanz_rot.png)](lithium#ökobilanz)
-[![Gefahren](assets/Gefahren_rot.png)](lithium#gefahren)
-[![Recycling](assets/Recycling_rot.png)](lithium#recycling)
+[![Lebensdauer](assets/lebensdauer_grün.png)](#lebensdauer)
+[![Energiedichte](assets/Energiedichte_leer.png)](#energiedichte)
+[![Ökobilanz](assets/Ökobilanz_rot.png)](#ökobilanz)
+[![Gefahren](assets/Gefahren_rot.png)](#gefahren)
+[![Recycling](assets/Recycling_rot.png)](#recycling)
 
 ## Lebensdauer
 
