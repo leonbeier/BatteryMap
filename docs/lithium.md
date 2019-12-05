@@ -26,5 +26,16 @@ Die Ökobilanz von Li-Io-Akkus sind noch nicht dierekt bekannt, da druch den in 
 
 ## Gefahren
 
+Bei falscher Handhabung können Lithium-Ion Akkus gefährlich für die 
+menschliche Gesundheit werden. Sie können bei falscher Benutzung platzen 
+und oder Feuer fangen, durch z.B Kurzschlüsse, Überlast, falsches Laden und physische
+Beschädigungen am Akku. Desweiteren sind die verwendeten Stoffe im Akku giftig, weshalb von Lithium Ion Akkus ein hohes Gefahrenpotential ausgeht.
+
 ## Recycling
 
+
+
+Quellen:<br/>
+https://kuestenflieger.de<br/>
+http://www.akku-abc.de/li-ionen-akku.php<br/>
+https://www.elektronik-kompendium.de/
