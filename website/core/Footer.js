@@ -61,6 +61,17 @@ class Footer extends React.Component {
           </div>
         </section>
 
+        <section>
+        <a href="https://vhdplus.com/" className="nav-vhdp">
+            {this.props.config.vhdpIcon && (
+              <img
+                src={this.props.config.baseUrl + this.props.config.vhdpIcon}
+                alt='VHDPlus'
+              />
+            )}
+          </a>
+        </section>
+
         <section className="copyright">{this.props.config.copyright}</section>
       </footer>
     );

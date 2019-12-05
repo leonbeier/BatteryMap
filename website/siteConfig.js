@@ -100,6 +100,7 @@ const siteConfig = {
   headerIcon: 'img/bat_ico.svg',
   footerIcon: 'img/bat_ico.svg',
   favicon: 'img/favicon.png',
+  vhdpIcon: 'img/VHDPlus_werbung.png',
   /* Colors for website */
   colors: {
     primaryColor: '#20232a',
