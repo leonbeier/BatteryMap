@@ -6,7 +6,7 @@ sidebar_label: Akku-Typen
 
 ## Lithium-Ionen Akkus
 
-<a href="lithium">
+<a href="/docs/lithium">
     <img align="left" width="200" src="/docs/assets/lit.jpg">
 </a>
 
@@ -14,7 +14,7 @@ Lithium-Ionen Akkus sind die meist verbreitesten Akkus. Sie haben eine hohe Ener
 
 ## Lithium-Polymere Akkus
 
-<a href="lipo">
+<a href="/docs/lipo">
     <img align="left" width="200" src="/docs/assets/auto.jpg">
 </a>
 
@@ -22,7 +22,7 @@ Lithium-Polymere Akkus sind eine Weiterentwicklung von Lithium Ionen Akkus. Sie 
 
 ## Nickel-Metallhydrid Akkus
 
-<a href="nimh">
+<a href="/docs/nimh">
     <img align="left" width="200" src="/docs/assets/nimh.jpg">
 </a>
 
