@@ -10,7 +10,7 @@ sidebar_label: Lithium-Ionen Akkus
 [![Energiedichte](assets/Energiedichte_voll.png)](lithium#energiedichte)
 [![Ökobilanz](assets/Ökobilanz_rot.png)](lithium#ökobilanz)
 [![Gefahren](assets/Gefahren_rot.png)](lithium#gefahren)
-[![Recycling](assets/Recycling_rot.png)](lithium#recycling)
+[![Recycling](assets/Recycling_gelb.png)](lithium#recycling)
 
 ## Lebensdauer
 
