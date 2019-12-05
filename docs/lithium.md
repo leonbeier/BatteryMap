@@ -33,9 +33,13 @@ Beschädigungen am Akku. Desweiteren sind die verwendeten Stoffe im Akku giftig,
 
 ## Recycling
 
-
+Recycling bei Akkus ist sehr aufwendig. Es können Stoffe wie Aluminium, Kobalt und Kupfer 
+gewonnen werden jedoch gibt es keinen Entsorgungsfachbetrieb für Lithium Akkus.
+Außerdem ist der Akku auch nicht vollständig recyclebar, weshalb durch entsorgte Akkus viel 
+giftiger Müll entsteht.
 
 Quellen:<br/>
 https://kuestenflieger.de<br/>
 http://www.akku-abc.de/li-ionen-akku.php<br/>
-https://www.elektronik-kompendium.de/
+https://www.elektronik-kompendium.de/<br/>
+roth-international.de 
