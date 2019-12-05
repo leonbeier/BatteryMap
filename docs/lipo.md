@@ -14,7 +14,10 @@ sidebar_label: Lithium-Polymere Akkus
 
 ## Lebensdauer
 
-300-500 Ladezyklen
+Die Lebensdauer von Lithium-Polymer-Akkus hängt von mehreren Faktoren ab. Die optimale Betriebstemperatur liegt zwischen 10°C und 25°C.  Allgemein sollten LiPos nicht keinen Temperaturen außerhalb von 0-60°C ausgesetzt werden. Auch bei den Ladevorgängen gibt es einiges zu beachten.  Vollständiges Laden und häufige Tiefenentladung sollte man vermeiden.  Essenziell ist die Verwendung von passenden/mitgelieferten Ladegeräten. 
+Wenn man Lipos länger Lagern möchte sollte man sie an einen kühlen und trockenen Ort mit einem Ladestand von ca. 40% legen.
+Die Lebensdauer hängt außerdem stark vom Einsatzgebiet ab. Im Modellbau zum Beispiel werden in kurzer Zeit hohe Leistungen benötigt, welche  die Lebensdauer auf 2-3 Jahre beschränkt. Bei mäßigerem Gebrauch außerhalb von Leitungsspitzen beträgt dir Lebensdauer ungefähr 7-10 Jahre.
+
 
 ## Energiedichte
 
